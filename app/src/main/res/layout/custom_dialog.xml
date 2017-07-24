@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toStartOf="@+id/close"
+        android:id="@+id/listView"
+        android:layout_below="@+id/close"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/close"
+        android:background="@drawable/ic_clear_black_24dp"
+        android:layout_width="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_height="30dp" />
+</RelativeLayout>

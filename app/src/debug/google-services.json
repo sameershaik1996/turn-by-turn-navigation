@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112031666162",
+    "project_id": "project6-169014"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112031666162:android:c12b0c73d81b1c50",
+        "android_client_info": {
+          "package_name": "com.example.sameer.project_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112031666162-g9cni7sd7g9ok9a61cgoc6jg12qvil07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sameer.project_6",
+            "certificate_hash": "38b056be996ec934e9ea6c7834516d67e7c31b29"
+          }
+        },
+        {
+          "client_id": "112031666162-7sneadta19o4e63lnlvlg1d74ohqlpqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEE5-orr-YzQqW3Fb5bejviEc17xkslg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
